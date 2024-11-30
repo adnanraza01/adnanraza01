@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Adnan Raza.
-- 👀 I’m interested in Website Development & Web Application.
+- 👀 I’m interested in Website Development & Web Applications.
 - 🌱 I’m currently learning & Developing at the ISP Multan.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... You can mail me at 'adnanraza01@gmail.com' and call me at '+923007337408'
