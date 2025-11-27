@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 # Muhammad Adnan Raza
 
 ## About Me
-Hi! I'm Muhammad Adnan Raza, a dedicated and passionate .NET developer with over 4 years of experience in creating efficient, scalable, and user-friendly applications. With a strong background in web and software design, I am committed to delivering innovative solutions to complex challenges.
+Hi! I'm Muhammad Adnan Raza, a dedicated and passionate .NET developer with over 5 years of experience in creating efficient, scalable, and user-friendly applications. With a strong background in web and software design, I am committed to delivering innovative solutions to complex challenges.
 
 ## Expertise
 - **Programming Languages**: C#, JavaScript, SQL
