@@ -28,8 +28,8 @@ Developed a comprehensive LMS with modules for students, teachers, and staff, fe
 - Integrated Google Meet for meetings.
 - Administrative functionalities for course registration and semester management.
 
-### 2. **ISP Admission System**
-Automated the admission process for the Institute of Southern Punjab, including:
+### 2. **Admission System**
+Automated the admission process for the University of Southern Punjab, including:
 - Student registration, fee management, and document submission.
 - Streamlined workflows for administrators and applicants.
 
