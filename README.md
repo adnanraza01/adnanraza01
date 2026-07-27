@@ -44,7 +44,7 @@ Simplified the convocation registration process by creating:
 
 ## Contact Me
 - **Email**: adnanraza01@gmail.com
-- **LinkedIn**: https://linkedin.com/in/muhammad-adnan-raza-44b76394
+- **LinkedIn**: https://linkedin.com/in/muhammad-adnan-raza
 - **GitHub**: https://github.com/adnanraza01
 
 ## Let's Collaborate!
